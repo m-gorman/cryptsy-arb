@@ -1,3 +1,5 @@
+# Crypsty market IDs
+
 def setIDs():
     marketIDs = {
         "ADT/LTC": 94,
